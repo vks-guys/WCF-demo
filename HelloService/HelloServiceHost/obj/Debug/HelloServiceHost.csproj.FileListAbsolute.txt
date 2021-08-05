@@ -1,0 +1,11 @@
+D:\WCF_Demo\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+D:\WCF_Demo\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+D:\WCF_Demo\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+D:\WCF_Demo\HelloService\HelloServiceHost\bin\Debug\HelloServices.pdb
+D:\WCF_Demo\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojAssemblyReference.cache
+D:\WCF_Demo\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CoreCompileInputs.cache
+D:\WCF_Demo\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CopyComplete
+D:\WCF_Demo\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+D:\WCF_Demo\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+D:\WCF_Demo\HelloService\HelloServiceHost\bin\Debug\HelloServices.exe
+D:\WCF_Demo\HelloService\HelloServiceHost\bin\Debug\HelloServices.exe.config

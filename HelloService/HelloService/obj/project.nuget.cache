@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XcT6Sgia8TSyC5pusQ/uL0jZrst5IVYGkaKLDmzHi3DZb39bd+xduwvezKhd5Krx4e60plwrmqii3t/Q8CkUg==",
+  "success": true,
+  "projectFilePath": "D:\\WCF_Demo\\HelloService\\HelloService\\HelloService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vivek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vivek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
